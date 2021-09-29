@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: #38a3a5;
+  color: #80ed99;
+}
+header {
+  background: #22577a;
+  color: #57cc99;
+  padding: 2em;
+}
+input[type="number"] {
+  background: #22577a;
+  color: #80ed99;
+  border: 1.5px solid;
+  border-radius: 3px;
+  height: 1.5rem;
+}
+#enter {
+  background: #57cc99;
+  color: #22577a;
+  border: 1.5px solid;
+  border-radius: 3px;
+  height: 1.5rem;
+  font-weight: 550;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5em;
+}
+#message {
+  color: #22577a;
+  font-weight: 600;
+}
