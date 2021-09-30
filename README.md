@@ -1,5 +1,6 @@
 # stoncs-calculator
-Calculates profit or loss based on initial and current value of stock. 
+
+Calculates profit or loss based on initial and current value of stock.
 
 ### Preview
 
@@ -8,4 +9,4 @@ Calculates profit or loss based on initial and current value of stock.
 ### Code and Live Demo
 
 [![Edit misty-snow-5nh0y](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/misty-snow-5nh0y?fontsize=14&hidenavigation=1&theme=dark)
-or got to https://5nh0y.csb.app/
+or got to https://csb-vowsb.netlify.app/
